@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color:red;
+}
+h2{
+    color:purple;
+}
+h3,h4{
+    color:#D4AC0D; font-size: 16px;
+}
+ul{
+    list-style-position: inside
+}
+ol{
+    list-style-position: inside
+}
